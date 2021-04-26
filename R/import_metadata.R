@@ -7,7 +7,7 @@
 #'
 #'
 
-import_metadata <- function(path_batch = "data/200207_MainInc_ME_1_a.b"){
+import_metadata <- function(path_batch = "extdata/200207_MainInc_ME_1_a.b"){
   BatchLog <- readxl::read_xlsx(paste(path_batch,"/BatchLog.xlsx",sep= ""),
                          col_names = c("nr","aq.time","sample.type","sample.name","file.name","comment","vial"),
                         col_types = c("guess", "date","guess","guess","guess","guess","guess"),

@@ -6,7 +6,7 @@
 #'
 
 
-import_mh_all_sample_csv <- function(path_batch = "data/200207_MainInc_ME_1_a.b", modes_nr = 2){
+import_mh_all_sample_csv <- function(path_batch = "extdata/200207_MainInc_ME_1_a.b", modes_nr = 2){
   x <- c()
   i <- 1
   (list_samples <- list.files(path_batch) %>%

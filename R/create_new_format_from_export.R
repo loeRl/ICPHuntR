@@ -9,7 +9,7 @@
 
 
 
-create_new_format_from_export <- function(.df){
+create_new_format_from_export <- function(.df = "extdata/Soil_extraction.xlsx"){
   data.f <- assign_new_names(.df)
   data.f_2 <-tidyr::gather(data.f,
                             analyses,

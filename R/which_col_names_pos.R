@@ -6,7 +6,7 @@
 #'
 #'
 
-which_col_names_pos <- function(.path){
+which_col_names_pos <- function(.path = "extdata/Soil_extraction.xlsx"){
   .df <- readxl::read_xlsx(.path)
   names <- names(.df)
   a <- stringr::str_which(names, "\\.\\.\\.",negate = T)

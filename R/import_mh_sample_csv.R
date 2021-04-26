@@ -6,7 +6,7 @@
 #'
 
 
-import_mh_sample_csv <- function(csv_path = "data/200207_MainInc_ME_1_a.b/001SMPL.d/001SMPL_1.csv"){
+import_mh_sample_csv <- function(csv_path = "extdata/200207_MainInc_ME_1_a.b/001SMPL.d/001SMPL_1.csv"){
     mode <- readr::read_delim(csv_path,
                      "/"
                      ,

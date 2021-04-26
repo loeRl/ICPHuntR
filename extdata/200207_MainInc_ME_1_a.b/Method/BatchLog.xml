@@ -1,0 +1,2969 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BatchLogDataSet SchemaVersion="65536" DataVersion="1" SIVersion="C.1.3.505.23" BatchName="200207_MainInc_ME_1_a.b" BatchDataPath="C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b" HashCode="99201CE0DA2BCE208FD89EF1C5997D6867A9CB2ACE0F4D4B966D9750B82DD85DEC127C4157B7D3D8C7C2437FE9389F36F48194824F6853B76F6A1D3C63247E4E" xmlns="BatchLog">
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>0</SampleLogID>
+    <AcqDateTime>2020-02-07T15:05:39.6237626+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\001SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>1</SampleLogID>
+    <AcqDateTime>2020-02-07T15:09:51.988198+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\002CALB.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>0</SampleName>
+    <SamplePosition>T1V1</SamplePosition>
+    <SampleType>CalBlk</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>1</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>2</SampleLogID>
+    <AcqDateTime>2020-02-07T15:14:03.9967318+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\003CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>0.5</SampleName>
+    <SamplePosition>T1V4</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>2</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>3</SampleLogID>
+    <AcqDateTime>2020-02-07T15:18:07.8949831+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\004CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>3</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>4</SampleLogID>
+    <AcqDateTime>2020-02-07T15:22:20.0441955+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\005CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>5</SampleName>
+    <SamplePosition>T1V10</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>4</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>5</SampleLogID>
+    <AcqDateTime>2020-02-07T15:26:24.9126799+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\006CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>10</SampleName>
+    <SamplePosition>T1V13</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>5</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>6</SampleLogID>
+    <AcqDateTime>2020-02-07T15:30:37.968983+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\007CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>6</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>7</SampleLogID>
+    <AcqDateTime>2020-02-07T15:34:39.0160853+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\008CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>100</SampleName>
+    <SamplePosition>T1V19</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>7</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>8</SampleLogID>
+    <AcqDateTime>2020-02-07T15:38:49.0110823+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\009CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>500</SampleName>
+    <SamplePosition>T1V2</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>8</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>9</SampleLogID>
+    <AcqDateTime>2020-02-07T15:42:48.0689857+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\010SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>10</SampleLogID>
+    <AcqDateTime>2020-02-07T15:47:00.0911854+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\011SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>11</SampleLogID>
+    <AcqDateTime>2020-02-07T15:51:04.0635802+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\012SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A101FME 1:1</SampleName>
+    <SamplePosition>T2V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>12</SampleLogID>
+    <AcqDateTime>2020-02-07T15:55:15.0346748+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\013SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A207FME 1:1</SampleName>
+    <SamplePosition>T2V6</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>13</SampleLogID>
+    <AcqDateTime>2020-02-07T15:55:15.0346748+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment />
+    <OperatorName>Admin</OperatorName>
+    <SampleName />
+    <SamplePosition />
+    <SampleType />
+    <ErrorMessage />
+    <ErrorType>Succeeded</ErrorType>
+    <FunctionType>Pause</FunctionType>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>14</SampleLogID>
+    <AcqDateTime>2020-02-07T15:59:35.5657253+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\014SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B101FME 1:1</SampleName>
+    <SamplePosition>T2V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>15</SampleLogID>
+    <AcqDateTime>2020-02-07T16:03:47.1218784+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\015SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B207FME 1:1</SampleName>
+    <SamplePosition>T2V6</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>16</SampleLogID>
+    <AcqDateTime>2020-02-07T16:07:47.0228661+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\016SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C101FME 1:1</SampleName>
+    <SamplePosition>T2V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>17</SampleLogID>
+    <AcqDateTime>2020-02-07T16:11:55.0711181+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\017SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C207FME 1:1</SampleName>
+    <SamplePosition>T2V6</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>18</SampleLogID>
+    <AcqDateTime>2020-02-07T16:15:54.0553961+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\018SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D101FME 1:1</SampleName>
+    <SamplePosition>T2V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>19</SampleLogID>
+    <AcqDateTime>2020-02-07T16:15:54.0553961+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment />
+    <OperatorName>Admin</OperatorName>
+    <SampleName />
+    <SamplePosition />
+    <SampleType />
+    <ErrorMessage />
+    <ErrorType>Succeeded</ErrorType>
+    <FunctionType>Pause</FunctionType>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>20</SampleLogID>
+    <AcqDateTime>2020-02-07T16:27:55.5467252+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\019SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D207FME 1:1</SampleName>
+    <SamplePosition>T2V36</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>21</SampleLogID>
+    <AcqDateTime>2020-02-07T16:32:37.9569634+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\020SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A201FME 1:1</SampleName>
+    <SamplePosition>T3V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>22</SampleLogID>
+    <AcqDateTime>2020-02-07T16:36:45.9447597+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\021SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A301FME 1:1</SampleName>
+    <SamplePosition>T3V6</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>23</SampleLogID>
+    <AcqDateTime>2020-02-07T16:40:44.9856614+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\022SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B201FME 1:1</SampleName>
+    <SamplePosition>T3V11</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>24</SampleLogID>
+    <AcqDateTime>2020-02-07T16:44:54.9836587+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\023SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B301FME 1:1</SampleName>
+    <SamplePosition>T3V16</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>25</SampleLogID>
+    <AcqDateTime>2020-02-07T16:48:56.0237603+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\024SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C201FME 1:1</SampleName>
+    <SamplePosition>T3V21</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>26</SampleLogID>
+    <AcqDateTime>2020-02-07T16:53:05.9767531+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\025SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D207FME 1:1</SampleName>
+    <SamplePosition>T2V36</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>27</SampleLogID>
+    <AcqDateTime>2020-02-07T16:57:05.0906621+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <Comment>dilution_test</Comment>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\026SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D207FME 1:1</SampleName>
+    <SamplePosition>T2V36</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>28</SampleLogID>
+    <AcqDateTime>2020-02-07T17:01:13.1414647+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\027SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C301FME 1:1</SampleName>
+    <SamplePosition>T3V26</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>29</SampleLogID>
+    <AcqDateTime>2020-02-07T17:05:13.0864568+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\028SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D201FME 1:1</SampleName>
+    <SamplePosition>T3V31</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>30</SampleLogID>
+    <AcqDateTime>2020-02-07T17:09:22.1013558+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\029SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D301FME 1:1</SampleName>
+    <SamplePosition>T3V36</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>31</SampleLogID>
+    <AcqDateTime>2020-02-07T17:13:23.0363807+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\030SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A102FME 1:1</SampleName>
+    <SamplePosition>T3V41</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>32</SampleLogID>
+    <AcqDateTime>2020-02-07T17:17:33.0283807+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\031SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A202FME 1:1</SampleName>
+    <SamplePosition>T3V46</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>33</SampleLogID>
+    <AcqDateTime>2020-02-07T17:21:35.1376615+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\032SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A302FME 1:1</SampleName>
+    <SamplePosition>T3V51</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>34</SampleLogID>
+    <AcqDateTime>2020-02-07T17:25:46.1297582+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\033SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B102FME 1:1</SampleName>
+    <SamplePosition>T3V56</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>35</SampleLogID>
+    <AcqDateTime>2020-02-07T17:29:47.9589387+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\034SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>36</SampleLogID>
+    <AcqDateTime>2020-02-07T17:33:57.1598563+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\035_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>37</SampleLogID>
+    <AcqDateTime>2020-02-07T17:37:59.0950474+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\036_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>38</SampleLogID>
+    <AcqDateTime>2020-02-07T17:42:08.1469501+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\037SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>39</SampleLogID>
+    <AcqDateTime>2020-02-07T17:46:09.1170447+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\038SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B202FME 1:1</SampleName>
+    <SamplePosition>T3V2</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>40</SampleLogID>
+    <AcqDateTime>2020-02-07T17:50:17.1438449+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\039SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B302FME 1:1</SampleName>
+    <SamplePosition>T3V7</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>41</SampleLogID>
+    <AcqDateTime>2020-02-07T17:54:18.1279409+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\040SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C102FME 1:1</SampleName>
+    <SamplePosition>T3V12</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>42</SampleLogID>
+    <AcqDateTime>2020-02-07T17:58:28.0519308+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\041SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C202FME 1:1</SampleName>
+    <SamplePosition>T3V17</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>43</SampleLogID>
+    <AcqDateTime>2020-02-07T18:02:29.1460378+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\042SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C302FME 1:1</SampleName>
+    <SamplePosition>T3V22</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>44</SampleLogID>
+    <AcqDateTime>2020-02-07T18:06:38.1839391+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\043SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D102FME 1:1</SampleName>
+    <SamplePosition>T3V27</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>45</SampleLogID>
+    <AcqDateTime>2020-02-07T18:10:39.1656954+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\044SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D202FME 1:1</SampleName>
+    <SamplePosition>T3V32</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>46</SampleLogID>
+    <AcqDateTime>2020-02-07T18:14:49.1676927+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\045SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D302FME 1:1</SampleName>
+    <SamplePosition>T3V37</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>47</SampleLogID>
+    <AcqDateTime>2020-02-07T18:18:51.1543672+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\046SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A103FME 1:1</SampleName>
+    <SamplePosition>T3V42</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>48</SampleLogID>
+    <AcqDateTime>2020-02-07T18:23:02.0853672+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\047SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A203FME 1:1</SampleName>
+    <SamplePosition>T3V47</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>49</SampleLogID>
+    <AcqDateTime>2020-02-07T18:27:02.9636651+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\048SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A303FME 1:1</SampleName>
+    <SamplePosition>T3V52</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>50</SampleLogID>
+    <AcqDateTime>2020-02-07T18:31:12.9636626+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\049SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B103FME 1:1</SampleName>
+    <SamplePosition>T3V57</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>51</SampleLogID>
+    <AcqDateTime>2020-02-07T18:35:14.0687707+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\050SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B203FME 1:1</SampleName>
+    <SamplePosition>T3V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>52</SampleLogID>
+    <AcqDateTime>2020-02-07T18:39:24.0787692+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\051SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B303FME 1:1</SampleName>
+    <SamplePosition>T3V8</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>53</SampleLogID>
+    <AcqDateTime>2020-02-07T18:43:25.0848674+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\052SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C103FME 1:1</SampleName>
+    <SamplePosition>T3V13</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>54</SampleLogID>
+    <AcqDateTime>2020-02-07T18:47:35.0408605+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\053SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C203FME 1:1</SampleName>
+    <SamplePosition>T3V18</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>55</SampleLogID>
+    <AcqDateTime>2020-02-07T18:51:36.0609601+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\054SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C303FME 1:1</SampleName>
+    <SamplePosition>T3V23</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>56</SampleLogID>
+    <AcqDateTime>2020-02-07T18:55:45.1778693+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\055SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D103FME 1:1</SampleName>
+    <SamplePosition>T3V28</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>57</SampleLogID>
+    <AcqDateTime>2020-02-07T18:59:46.0599551+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\056SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D203FME 1:1</SampleName>
+    <SamplePosition>T3V33</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>58</SampleLogID>
+    <AcqDateTime>2020-02-07T19:03:55.1488615+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\057SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D303FME 1:1</SampleName>
+    <SamplePosition>T3V38</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>59</SampleLogID>
+    <AcqDateTime>2020-02-07T19:07:56.1449587+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\058SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A104FME 1:1</SampleName>
+    <SamplePosition>T3V43</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>60</SampleLogID>
+    <AcqDateTime>2020-02-07T19:12:08.0750435+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\059SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A204FME 1:1</SampleName>
+    <SamplePosition>T3V48</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>61</SampleLogID>
+    <AcqDateTime>2020-02-07T19:16:09.9725993+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\060SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A304FME 1:1</SampleName>
+    <SamplePosition>T3V53</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>62</SampleLogID>
+    <AcqDateTime>2020-02-07T19:20:21.0835993+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\061SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B104FME 1:1</SampleName>
+    <SamplePosition>T3V58</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>63</SampleLogID>
+    <AcqDateTime>2020-02-07T19:24:23.0235993+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\062SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B204FME 1:1</SampleName>
+    <SamplePosition>T3V4</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>64</SampleLogID>
+    <AcqDateTime>2020-02-07T19:28:33.9977504+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\063SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B304FME 1:1</SampleName>
+    <SamplePosition>T3V9</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>65</SampleLogID>
+    <AcqDateTime>2020-02-07T19:32:35.9749457+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\064SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>66</SampleLogID>
+    <AcqDateTime>2020-02-07T19:36:45.1188576+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\065CALB.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>0</SampleName>
+    <SamplePosition>T1V1</SamplePosition>
+    <SampleType>CalBlk</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>1</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>67</SampleLogID>
+    <AcqDateTime>2020-02-07T19:40:46.0099443+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\066CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>0.5</SampleName>
+    <SamplePosition>T1V4</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>2</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>68</SampleLogID>
+    <AcqDateTime>2020-02-07T19:44:56.9710379+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\067CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>3</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>69</SampleLogID>
+    <AcqDateTime>2020-02-07T19:48:58.9722356+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\068CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>5</SampleName>
+    <SamplePosition>T1V10</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>4</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>70</SampleLogID>
+    <AcqDateTime>2020-02-07T19:53:11.0344393+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\069CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>10</SampleName>
+    <SamplePosition>T1V13</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>5</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>71</SampleLogID>
+    <AcqDateTime>2020-02-07T19:57:13.0426377+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\070CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>6</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>72</SampleLogID>
+    <AcqDateTime>2020-02-07T20:01:21.9935303+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\071CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>100</SampleName>
+    <SamplePosition>T1V19</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>7</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>73</SampleLogID>
+    <AcqDateTime>2020-02-07T20:05:21.1774463+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\072CALS.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>500</SampleName>
+    <SamplePosition>T1V2</SamplePosition>
+    <SampleType>CalStd</SampleType>
+    <ErrorMessage />
+    <CalibrationLevel>8</CalibrationLevel>
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>74</SampleLogID>
+    <AcqDateTime>2020-02-07T20:09:27.2010462+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\073SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>75</SampleLogID>
+    <AcqDateTime>2020-02-07T20:13:28.0355909+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\074SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>76</SampleLogID>
+    <AcqDateTime>2020-02-07T20:17:38.1675909+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\075SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>77</SampleLogID>
+    <AcqDateTime>2020-02-07T20:21:39.9885909+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\076_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>78</SampleLogID>
+    <AcqDateTime>2020-02-07T20:25:50.0553359+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\077_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>79</SampleLogID>
+    <AcqDateTime>2020-02-07T20:29:50.130341+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\078SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>80</SampleLogID>
+    <AcqDateTime>2020-02-07T20:33:58.9972252+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\079SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C104FME 1:1</SampleName>
+    <SamplePosition>T3V14</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>81</SampleLogID>
+    <AcqDateTime>2020-02-07T20:38:01.1114342+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\080SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C204FME 1:1</SampleName>
+    <SamplePosition>T3V19</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>82</SampleLogID>
+    <AcqDateTime>2020-02-07T20:42:09.9493155+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\081SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C304FME 1:1</SampleName>
+    <SamplePosition>T3V24</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>83</SampleLogID>
+    <AcqDateTime>2020-02-07T20:46:12.1145296+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\082SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D104FME 1:1</SampleName>
+    <SamplePosition>T3V29</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>84</SampleLogID>
+    <AcqDateTime>2020-02-07T20:50:22.0525209+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\083SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D204FME 1:1</SampleName>
+    <SamplePosition>T3V34</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>85</SampleLogID>
+    <AcqDateTime>2020-02-07T20:54:21.9955128+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\084SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D304FME 1:1</SampleName>
+    <SamplePosition>T3V39</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>86</SampleLogID>
+    <AcqDateTime>2020-02-07T20:58:31.1034211+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\085SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A105FME 1:1</SampleName>
+    <SamplePosition>T3V44</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>87</SampleLogID>
+    <AcqDateTime>2020-02-07T21:02:32.0535137+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\086SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A205FME 1:1</SampleName>
+    <SamplePosition>T3V49</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>88</SampleLogID>
+    <AcqDateTime>2020-02-07T21:06:43.1666225+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\087SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A305FME 1:1</SampleName>
+    <SamplePosition>T3V54</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>89</SampleLogID>
+    <AcqDateTime>2020-02-07T21:10:46.1685692+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\088SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B105FME 1:1</SampleName>
+    <SamplePosition>T3V59</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>90</SampleLogID>
+    <AcqDateTime>2020-02-07T21:14:57.1295692+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\089SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B205FME 1:1</SampleName>
+    <SamplePosition>T3V5</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>91</SampleLogID>
+    <AcqDateTime>2020-02-07T21:18:57.0705692+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\090SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B305FME 1:1</SampleName>
+    <SamplePosition>T3V10</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>92</SampleLogID>
+    <AcqDateTime>2020-02-07T21:23:07.0965692+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\091SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C105FME 1:1</SampleName>
+    <SamplePosition>T3V15</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>93</SampleLogID>
+    <AcqDateTime>2020-02-07T21:27:07.9481025+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\092SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C205FME 1:1</SampleName>
+    <SamplePosition>T3V20</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>94</SampleLogID>
+    <AcqDateTime>2020-02-07T21:31:18.0761128+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\093SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C305FME 1:1</SampleName>
+    <SamplePosition>T3V25</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>95</SampleLogID>
+    <AcqDateTime>2020-02-07T21:35:18.9581986+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\094SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D105FME 1:1</SampleName>
+    <SamplePosition>T3V30</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>96</SampleLogID>
+    <AcqDateTime>2020-02-07T21:39:29.1642167+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\095SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D205FME 1:1</SampleName>
+    <SamplePosition>T3V35</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>97</SampleLogID>
+    <AcqDateTime>2020-02-07T21:43:28.9531932+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\096SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D305FME 1:1</SampleName>
+    <SamplePosition>T3V40</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>98</SampleLogID>
+    <AcqDateTime>2020-02-07T21:47:39.0642018+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\097SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A106FME 1:1</SampleName>
+    <SamplePosition>T3V45</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>99</SampleLogID>
+    <AcqDateTime>2020-02-07T21:51:41.0023932+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\098SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A206FME 1:1</SampleName>
+    <SamplePosition>T3V50</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>100</SampleLogID>
+    <AcqDateTime>2020-02-07T21:55:52.0464951+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\099SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A306FME 1:1</SampleName>
+    <SamplePosition>T3V55</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>101</SampleLogID>
+    <AcqDateTime>2020-02-07T21:59:55.1198+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\100SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B106FME 1:1</SampleName>
+    <SamplePosition>T3V60</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>102</SampleLogID>
+    <AcqDateTime>2020-02-07T22:04:05.1888044+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\101SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>103</SampleLogID>
+    <AcqDateTime>2020-02-07T22:08:05.0377869+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\102_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>104</SampleLogID>
+    <AcqDateTime>2020-02-07T22:12:17.2121031+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\103_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>105</SampleLogID>
+    <AcqDateTime>2020-02-07T22:16:16.9545555+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\104SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>106</SampleLogID>
+    <AcqDateTime>2020-02-07T22:20:27.0535555+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\105SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B206FME 1:1</SampleName>
+    <SamplePosition>T4V1</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>107</SampleLogID>
+    <AcqDateTime>2020-02-07T22:24:27.0175555+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\106SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B306FME 1:1</SampleName>
+    <SamplePosition>T4V6</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>108</SampleLogID>
+    <AcqDateTime>2020-02-07T22:28:36.0968993+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\107SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C106FME 1:1</SampleName>
+    <SamplePosition>T4V11</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>109</SampleLogID>
+    <AcqDateTime>2020-02-07T22:32:37.0439916+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\108SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C206FME 1:1</SampleName>
+    <SamplePosition>T4V16</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>110</SampleLogID>
+    <AcqDateTime>2020-02-07T22:36:46.9789826+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\109SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C306FME 1:1</SampleName>
+    <SamplePosition>T4V21</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>111</SampleLogID>
+    <AcqDateTime>2020-02-07T22:40:48.9561779+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\110SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D106FME 1:1</SampleName>
+    <SamplePosition>T4V26</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>112</SampleLogID>
+    <AcqDateTime>2020-02-07T22:44:59.0361834+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\111SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D206FME 1:1</SampleName>
+    <SamplePosition>T4V31</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>113</SampleLogID>
+    <AcqDateTime>2020-02-07T22:49:00.0772851+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\112SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D306FME 1:1</SampleName>
+    <SamplePosition>T4V36</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>114</SampleLogID>
+    <AcqDateTime>2020-02-07T22:53:09.0861835+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\113SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A107FME 1:1</SampleName>
+    <SamplePosition>T4V41</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>115</SampleLogID>
+    <AcqDateTime>2020-02-07T22:57:10.9603685+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\114SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A207FME 1:1</SampleName>
+    <SamplePosition>T4V46</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>116</SampleLogID>
+    <AcqDateTime>2020-02-07T23:01:22.0514751+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\115SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A307FME 1:1</SampleName>
+    <SamplePosition>T4V51</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>117</SampleLogID>
+    <AcqDateTime>2020-02-07T23:05:22.9865662+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\116SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B107FME 1:1</SampleName>
+    <SamplePosition>T4V56</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>118</SampleLogID>
+    <AcqDateTime>2020-02-07T23:09:33.189584+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\117SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B207FME 1:1</SampleName>
+    <SamplePosition>T4V2</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>119</SampleLogID>
+    <AcqDateTime>2020-02-07T23:13:33.0515386+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\118SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B307FME 1:1</SampleName>
+    <SamplePosition>T4V7</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>120</SampleLogID>
+    <AcqDateTime>2020-02-07T23:17:43.1795386+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\119SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C107FME 1:1</SampleName>
+    <SamplePosition>T4V12</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>121</SampleLogID>
+    <AcqDateTime>2020-02-07T23:21:43.0795386+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\120SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C207FME 1:1</SampleName>
+    <SamplePosition>T4V17</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>122</SampleLogID>
+    <AcqDateTime>2020-02-07T23:25:53.1105804+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\121SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C307FME 1:1</SampleName>
+    <SamplePosition>T4V22</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>123</SampleLogID>
+    <AcqDateTime>2020-02-07T23:29:55.0037673+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\122SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>124</SampleLogID>
+    <AcqDateTime>2020-02-07T23:34:04.9767621+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\123_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>125</SampleLogID>
+    <AcqDateTime>2020-02-07T23:38:07.0179638+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\124_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>126</SampleLogID>
+    <AcqDateTime>2020-02-07T23:42:15.10477+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\125SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>127</SampleLogID>
+    <AcqDateTime>2020-02-07T23:46:16.1498721+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\126SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D107FME 1:1</SampleName>
+    <SamplePosition>T4V27</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>128</SampleLogID>
+    <AcqDateTime>2020-02-07T23:50:25.983853+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\127SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D207FME 1:1</SampleName>
+    <SamplePosition>T4V32</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>129</SampleLogID>
+    <AcqDateTime>2020-02-07T23:54:27.1329655+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\128SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D307FME 1:1</SampleName>
+    <SamplePosition>T4V37</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>130</SampleLogID>
+    <AcqDateTime>2020-02-07T23:58:38.1400637+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\129SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A108FME 1:1</SampleName>
+    <SamplePosition>T4V42</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>131</SampleLogID>
+    <AcqDateTime>2020-02-08T00:02:40.1302603+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\130SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A208FME 1:1</SampleName>
+    <SamplePosition>T4V47</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>132</SampleLogID>
+    <AcqDateTime>2020-02-08T00:06:50.0582506+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\131SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A308FME 1:1</SampleName>
+    <SamplePosition>T4V52</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>133</SampleLogID>
+    <AcqDateTime>2020-02-08T00:10:52.1815849+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\132SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B108FME 1:1</SampleName>
+    <SamplePosition>T4V57</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>134</SampleLogID>
+    <AcqDateTime>2020-02-08T00:15:03.1715249+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\133SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B208FME 1:1</SampleName>
+    <SamplePosition>T4V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>135</SampleLogID>
+    <AcqDateTime>2020-02-08T00:19:02.9995249+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\134SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B308FME 1:1</SampleName>
+    <SamplePosition>T4V8</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>136</SampleLogID>
+    <AcqDateTime>2020-02-08T00:23:11.9515249+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\135SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C108FME 1:1</SampleName>
+    <SamplePosition>T4V13</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>137</SampleLogID>
+    <AcqDateTime>2020-02-08T00:27:12.9075421+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\136SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C208FME 1:1</SampleName>
+    <SamplePosition>T4V18</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>138</SampleLogID>
+    <AcqDateTime>2020-02-08T00:31:22.9995488+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\137SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C308FME 1:1</SampleName>
+    <SamplePosition>T4V23</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>139</SampleLogID>
+    <AcqDateTime>2020-02-08T00:35:23.9246389+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\138SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D108FME 1:1</SampleName>
+    <SamplePosition>T4V28</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>140</SampleLogID>
+    <AcqDateTime>2020-02-08T00:39:34.010645+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\139SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D208FME 1:1</SampleName>
+    <SamplePosition>T4V33</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>141</SampleLogID>
+    <AcqDateTime>2020-02-08T00:43:36.1578573+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\140SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D308FME 1:1</SampleName>
+    <SamplePosition>T4V38</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>142</SampleLogID>
+    <AcqDateTime>2020-02-08T00:47:45.9928383+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\141SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A109FME 1:1</SampleName>
+    <SamplePosition>T4V43</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>143</SampleLogID>
+    <AcqDateTime>2020-02-08T00:51:47.0809447+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\142SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A209FME 1:1</SampleName>
+    <SamplePosition>T4V48</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>144</SampleLogID>
+    <AcqDateTime>2020-02-08T00:55:57.0079349+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\143SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A309FME 1:1</SampleName>
+    <SamplePosition>T4V53</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>145</SampleLogID>
+    <AcqDateTime>2020-02-08T00:59:59.0301347+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\144SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B109FME 1:1</SampleName>
+    <SamplePosition>T4V58</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>146</SampleLogID>
+    <AcqDateTime>2020-02-08T01:04:11.1043396+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\145SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B209FME 1:1</SampleName>
+    <SamplePosition>T4V4</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>147</SampleLogID>
+    <AcqDateTime>2020-02-08T01:08:12.1704438+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\146SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B309FME 1:1</SampleName>
+    <SamplePosition>T4V9</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>148</SampleLogID>
+    <AcqDateTime>2020-02-08T01:12:22.2265144+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\147SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C109FME 1:1</SampleName>
+    <SamplePosition>T4V14</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>149</SampleLogID>
+    <AcqDateTime>2020-02-08T01:16:24.0885144+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\148SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C209FME 1:1</SampleName>
+    <SamplePosition>T4V19</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>150</SampleLogID>
+    <AcqDateTime>2020-02-08T01:20:34.9795144+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\149SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C309FME 1:1</SampleName>
+    <SamplePosition>T4V24</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>151</SampleLogID>
+    <AcqDateTime>2020-02-08T01:24:36.1275144+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\150SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>152</SampleLogID>
+    <AcqDateTime>2020-02-08T01:28:45.9688254+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\151_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>153</SampleLogID>
+    <AcqDateTime>2020-02-08T01:32:47.1109372+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\152_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>154</SampleLogID>
+    <AcqDateTime>2020-02-08T01:36:56.0988335+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\153SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>155</SampleLogID>
+    <AcqDateTime>2020-02-08T01:40:56.957917+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\154SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D109FME 1:1</SampleName>
+    <SamplePosition>T4V29</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>156</SampleLogID>
+    <AcqDateTime>2020-02-08T01:45:06.1188306+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\155SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D209FME 1:1</SampleName>
+    <SamplePosition>T4V34</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>157</SampleLogID>
+    <AcqDateTime>2020-02-08T01:49:09.1201283+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\156SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D309FME 1:1</SampleName>
+    <SamplePosition>T4V39</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>158</SampleLogID>
+    <AcqDateTime>2020-02-08T01:53:19.0161154+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\157SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A110FME 1:1</SampleName>
+    <SamplePosition>T4V44</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>159</SampleLogID>
+    <AcqDateTime>2020-02-08T01:57:19.9852099+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\158SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A210FME 1:1</SampleName>
+    <SamplePosition>T4V49</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>160</SampleLogID>
+    <AcqDateTime>2020-02-08T02:01:31.0883177+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\159SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A310FME 1:1</SampleName>
+    <SamplePosition>T4V54</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>161</SampleLogID>
+    <AcqDateTime>2020-02-08T02:05:32.0994164+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\160SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B110FME 1:1</SampleName>
+    <SamplePosition>T4V59</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>162</SampleLogID>
+    <AcqDateTime>2020-02-08T02:09:42.0114051+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\161SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B210FME 1:1</SampleName>
+    <SamplePosition>T4V5</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>163</SampleLogID>
+    <AcqDateTime>2020-02-08T02:13:43.9643956+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\162SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B310FME 1:1</SampleName>
+    <SamplePosition>T4V10</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>164</SampleLogID>
+    <AcqDateTime>2020-02-08T02:17:53.9705007+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\163SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C110FME 1:1</SampleName>
+    <SamplePosition>T4V15</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>165</SampleLogID>
+    <AcqDateTime>2020-02-08T02:21:53.9825007+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\164SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C210FME 1:1</SampleName>
+    <SamplePosition>T4V20</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>166</SampleLogID>
+    <AcqDateTime>2020-02-08T02:26:03.9896119+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\165SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C310FME 1:1</SampleName>
+    <SamplePosition>T4V25</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>167</SampleLogID>
+    <AcqDateTime>2020-02-08T02:30:07.9410046+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\166SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D110FME 1:1</SampleName>
+    <SamplePosition>T4V30</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>168</SampleLogID>
+    <AcqDateTime>2020-02-08T02:34:21.0683148+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\167SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D210FME 1:1</SampleName>
+    <SamplePosition>T4V35</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>169</SampleLogID>
+    <AcqDateTime>2020-02-08T02:38:25.9407996+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\168SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D310FME 1:1</SampleName>
+    <SamplePosition>T4V40</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>170</SampleLogID>
+    <AcqDateTime>2020-02-08T02:42:36.9608991+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\169SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>171</SampleLogID>
+    <AcqDateTime>2020-02-08T02:46:36.9878994+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\170_QC1.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>1</SampleName>
+    <SamplePosition>T1V7</SamplePosition>
+    <SampleType>QC1</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>172</SampleLogID>
+    <AcqDateTime>2020-02-08T02:50:47.9999981+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\171_QC2.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>50</SampleName>
+    <SamplePosition>T1V16</SamplePosition>
+    <SampleType>QC2</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>173</SampleLogID>
+    <AcqDateTime>2020-02-08T02:54:47.032899+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\172SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>rinse</SampleName>
+    <SamplePosition>T0V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>174</SampleLogID>
+    <AcqDateTime>2020-02-08T02:58:57.1649097+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\173SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>Blank_3 1:1</SampleName>
+    <SamplePosition>T4V25</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>175</SampleLogID>
+    <AcqDateTime>2020-02-08T03:03:00.182209+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\174SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>Blank_5 1:1</SampleName>
+    <SamplePosition>T4V30</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>176</SampleLogID>
+    <AcqDateTime>2020-02-08T03:07:14.137602+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\175SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>Blank_7 1:1</SampleName>
+    <SamplePosition>T4V35</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>177</SampleLogID>
+    <AcqDateTime>2020-02-08T03:11:18.1834898+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\176SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>Blank_10 1:1</SampleName>
+    <SamplePosition>T4V40</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>178</SampleLogID>
+    <AcqDateTime>2020-02-08T03:15:32.0564898+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\177SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A111FME 1:1</SampleName>
+    <SamplePosition>T2V2</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>179</SampleLogID>
+    <AcqDateTime>2020-02-08T03:19:32.1084898+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\178SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A211FME 1:1</SampleName>
+    <SamplePosition>T2V7</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>180</SampleLogID>
+    <AcqDateTime>2020-02-08T03:23:39.0750953+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\179SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A311FME 1:1</SampleName>
+    <SamplePosition>T2V12</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>181</SampleLogID>
+    <AcqDateTime>2020-02-08T03:27:37.9709825+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\180SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B111FME 1:1</SampleName>
+    <SamplePosition>T2V17</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>182</SampleLogID>
+    <AcqDateTime>2020-02-08T03:31:45.9937823+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\181SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B211FME 1:1</SampleName>
+    <SamplePosition>T2V22</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>183</SampleLogID>
+    <AcqDateTime>2020-02-08T03:35:45.1606966+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\182SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B311FME 1:1</SampleName>
+    <SamplePosition>T2V27</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>184</SampleLogID>
+    <AcqDateTime>2020-02-08T03:39:53.0714852+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\183SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C111FME 1:1</SampleName>
+    <SamplePosition>T2V32</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>185</SampleLogID>
+    <AcqDateTime>2020-02-08T03:43:53.0694826+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\184SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C211FME 1:1</SampleName>
+    <SamplePosition>T2V37</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>186</SampleLogID>
+    <AcqDateTime>2020-02-08T03:48:01.1792911+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\185SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C311FME 1:1</SampleName>
+    <SamplePosition>T2V42</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>187</SampleLogID>
+    <AcqDateTime>2020-02-08T03:52:01.0082716+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\186SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D111FME 1:1</SampleName>
+    <SamplePosition>T2V47</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>188</SampleLogID>
+    <AcqDateTime>2020-02-08T03:56:11.0342717+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\187SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D211FME 1:1</SampleName>
+    <SamplePosition>T2V52</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>189</SampleLogID>
+    <AcqDateTime>2020-02-08T04:00:11.0362695+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\188SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D311FME 1:1</SampleName>
+    <SamplePosition>T2V57</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>190</SampleLogID>
+    <AcqDateTime>2020-02-08T04:04:20.1091743+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\189SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A112FME 1:1</SampleName>
+    <SamplePosition>T2V3</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>191</SampleLogID>
+    <AcqDateTime>2020-02-08T04:08:21.1852795+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\190SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A212FME 1:1</SampleName>
+    <SamplePosition>T2V8</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>192</SampleLogID>
+    <AcqDateTime>2020-02-08T04:12:30.2047535+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\191SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A312FME 1:1</SampleName>
+    <SamplePosition>T2V13</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>193</SampleLogID>
+    <AcqDateTime>2020-02-08T04:16:30.1674694+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\192SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B112FME 1:1</SampleName>
+    <SamplePosition>T2V18</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>194</SampleLogID>
+    <AcqDateTime>2020-02-08T04:20:37.0754694+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\193SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B212FME 1:1</SampleName>
+    <SamplePosition>T2V23</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>195</SampleLogID>
+    <AcqDateTime>2020-02-08T04:24:37.0644694+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\194SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B312FME 1:1</SampleName>
+    <SamplePosition>T2V28</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>196</SampleLogID>
+    <AcqDateTime>2020-02-08T04:28:46.0970309+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\195SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C112FME 1:1</SampleName>
+    <SamplePosition>T2V33</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>197</SampleLogID>
+    <AcqDateTime>2020-02-08T04:32:46.0690257+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\196SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C212FME 1:1</SampleName>
+    <SamplePosition>T2V38</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>198</SampleLogID>
+    <AcqDateTime>2020-02-08T04:36:54.1518315+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\197SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C312FME 1:1</SampleName>
+    <SamplePosition>T2V43</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>199</SampleLogID>
+    <AcqDateTime>2020-02-08T04:40:55.0629202+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\198SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D112FME 1:1</SampleName>
+    <SamplePosition>T2V48</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>200</SampleLogID>
+    <AcqDateTime>2020-02-08T04:45:06.0450159+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\199SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D212FME 1:1</SampleName>
+    <SamplePosition>T2V53</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>201</SampleLogID>
+    <AcqDateTime>2020-02-08T04:49:07.1741264+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\200SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D312FME 1:1</SampleName>
+    <SamplePosition>T2V58</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>202</SampleLogID>
+    <AcqDateTime>2020-02-08T04:53:17.0171082+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\201SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A113FME 1:1</SampleName>
+    <SamplePosition>T2V4</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>203</SampleLogID>
+    <AcqDateTime>2020-02-08T04:57:18.1222163+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\202SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A213FME 1:1</SampleName>
+    <SamplePosition>T2V9</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>204</SampleLogID>
+    <AcqDateTime>2020-02-08T05:01:27.1851201+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\203SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A313FME 1:1</SampleName>
+    <SamplePosition>T2V14</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>205</SampleLogID>
+    <AcqDateTime>2020-02-08T05:05:26.0800072+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\204SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B113FME 1:1</SampleName>
+    <SamplePosition>T2V19</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>206</SampleLogID>
+    <AcqDateTime>2020-02-08T05:09:34.0398007+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\205SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B213FME 1:1</SampleName>
+    <SamplePosition>T2V24</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>207</SampleLogID>
+    <AcqDateTime>2020-02-08T05:13:34.044611+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\206SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B313FME 1:1</SampleName>
+    <SamplePosition>T2V29</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>208</SampleLogID>
+    <AcqDateTime>2020-02-08T05:17:42.9817087+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\207SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C113FME 1:1</SampleName>
+    <SamplePosition>T2V34</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>209</SampleLogID>
+    <AcqDateTime>2020-02-08T05:21:42.1137087+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\208SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C213FME 1:1</SampleName>
+    <SamplePosition>T2V39</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>210</SampleLogID>
+    <AcqDateTime>2020-02-08T05:25:50.9985056+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\209SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C313FME 1:1</SampleName>
+    <SamplePosition>T2V44</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>211</SampleLogID>
+    <AcqDateTime>2020-02-08T05:29:50.9254959+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\210SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D113FME 1:1</SampleName>
+    <SamplePosition>T2V49</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>212</SampleLogID>
+    <AcqDateTime>2020-02-08T05:34:00.9734982+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\211SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D213FME 1:1</SampleName>
+    <SamplePosition>T2V54</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>213</SampleLogID>
+    <AcqDateTime>2020-02-08T05:38:01.9985983+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\212SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D313FME 1:1</SampleName>
+    <SamplePosition>T2V59</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>214</SampleLogID>
+    <AcqDateTime>2020-02-08T05:42:12.1046064+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\213SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A114FME 1:1</SampleName>
+    <SamplePosition>T2V5</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>215</SampleLogID>
+    <AcqDateTime>2020-02-08T05:46:13.0636999+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\214SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A214FME 1:1</SampleName>
+    <SamplePosition>T2V10</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>216</SampleLogID>
+    <AcqDateTime>2020-02-08T05:50:22.0505961+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\215SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>A314FME 1:1</SampleName>
+    <SamplePosition>T2V15</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>217</SampleLogID>
+    <AcqDateTime>2020-02-08T05:54:22.0705957+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\216SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B114FME 1:1</SampleName>
+    <SamplePosition>T2V20</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>218</SampleLogID>
+    <AcqDateTime>2020-02-08T05:58:30.9854847+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\217SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B214FME 1:1</SampleName>
+    <SamplePosition>T2V25</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>219</SampleLogID>
+    <AcqDateTime>2020-02-08T06:02:29.982382+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\218SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>B314FME 1:1</SampleName>
+    <SamplePosition>T2V30</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>220</SampleLogID>
+    <AcqDateTime>2020-02-08T06:06:39.177299+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\219SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C114FME 1:1</SampleName>
+    <SamplePosition>T2V35</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>221</SampleLogID>
+    <AcqDateTime>2020-02-08T06:10:38.0136979+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\220SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C214FME 1:1</SampleName>
+    <SamplePosition>T2V40</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>222</SampleLogID>
+    <AcqDateTime>2020-02-08T06:14:47.0046979+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\221SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>C314FME 1:1</SampleName>
+    <SamplePosition>T2V45</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>223</SampleLogID>
+    <AcqDateTime>2020-02-08T06:18:48.1106979+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\222SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D114FME 1:1</SampleName>
+    <SamplePosition>T2V50</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>224</SampleLogID>
+    <AcqDateTime>2020-02-08T06:22:58.0296979+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\223SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D214FME 1:1</SampleName>
+    <SamplePosition>T2V55</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+  <BatchLogInfo>
+    <BatchLogID>-1</BatchLogID>
+    <SampleLogID>225</SampleLogID>
+    <AcqDateTime>2020-02-08T06:26:58.9452777+01:00</AcqDateTime>
+    <AcqResult>Pass</AcqResult>
+    <DataFileName>C:\Agilent\ICPMH\1\DATA\Adrien\Lorenz UNIBE\200207_MainInc_ME_1_a.b\224SMPL.d</DataFileName>
+    <DilutionResult>1</DilutionResult>
+    <OperatorName>Admin</OperatorName>
+    <SampleName>D314FME 1:1</SampleName>
+    <SamplePosition>T2V60</SamplePosition>
+    <SampleType>Sample</SampleType>
+    <ErrorMessage />
+  </BatchLogInfo>
+</BatchLogDataSet>

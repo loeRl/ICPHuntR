@@ -5,7 +5,7 @@
 \title{import_mh_all_sample_csv}
 \usage{
 import_mh_all_sample_csv(
-  path_batch = "data/200207_MainInc_ME_1_a.b",
+  path_batch = "extdata/200207_MainInc_ME_1_a.b",
   modes_nr = 2
 )
 }

@@ -4,7 +4,7 @@
 \alias{which_col_names_pos}
 \title{which_col_names_pos}
 \usage{
-which_col_names_pos(.path)
+which_col_names_pos(.path = "extdata/Soil_extraction.xlsx")
 }
 \arguments{
 \item{.path}{path to a masshunter exportsheet in .xlsx or .xls format}

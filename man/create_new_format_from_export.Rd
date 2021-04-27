@@ -4,7 +4,7 @@
 \alias{create_new_format_from_export}
 \title{create_new_format_from_export}
 \usage{
-create_new_format_from_export(.df)
+create_new_format_from_export(.df = "extdata/Soil_extraction.xlsx")
 }
 \arguments{
 \item{.df}{path to a masshunter exportsheet in .xlsx or .xls format}

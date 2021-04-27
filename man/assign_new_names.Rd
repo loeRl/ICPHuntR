@@ -4,7 +4,7 @@
 \alias{assign_new_names}
 \title{Assigning new names}
 \usage{
-assign_new_names(.df)
+assign_new_names(.df = "extdata/Soil_extraction.xlsx")
 }
 \arguments{
 \item{.df}{path to a masshunter exportsheet in .xlsx or .xls format}

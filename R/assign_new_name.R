@@ -10,8 +10,9 @@
 
 
 assign_new_names <- function(.df= "extdata/Soil_extraction.xlsx"){
+  a <- readxl::read_xlsx(.df)
   .col_names_pos <- which_col_names_pos(.df)
   names(a) <- stringr::str_remove(paste(names(a[.col_names_pos]),a[1,]),"Sample")
-  a <- a[-1,]
-  return(a)
+  b <- a[-1,]
+  return(b)
 }

@@ -4,7 +4,7 @@
 \alias{import_metadata}
 \title{import_metadata}
 \usage{
-import_metadata(path_batch = "extdata/200207_MainInc_ME_1_a.b")
+import_metadata(path_batch = "man/readme/extdata/random_ME_run.b/")
 }
 \arguments{
 \item{path_batch}{path to the a target batchfile}

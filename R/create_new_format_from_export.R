@@ -9,16 +9,20 @@
 
 
 
-create_new_format_from_export <- function(.df = "extdata/Soil_extraction.xlsx"){
-  data.f <- assign_new_names(.df)
-  data.f_2 <-tidyr::gather(data.f,
-                            analyses,
-                            value,
+create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8900_run.xlsx"){
+
+  analyses <- parameter <- na <- value <- level <- mass <- element <-unit <- analyte_type <- lod <- acq_time <-  NULL # Setting the variables to NULL first
+
+  data.f <- assign_new_names(.df) ## import the datasheet
+  data.f_2 <-tidyr::gather(data.f, ## make df longer
+                            "analyses",
+                            "value",
                             9:length(data.f)
                             )
   data.f_3 <-(data.f_2 %>%
                 dplyr::mutate(
-                  mass = stringr::str_extract(analyses,"[:digit:]+(?=[:space:])"),
+                  mass = as.numeric(stringr::str_extract(analyses,"[:digit:]+(?=[:space:])")),
+                  mass_shift = as.numeric(stringr::str_extract(analyses, "(?<=-> )\\d+")),
                   mode = stringr::str_trim(
                     stringr::str_extract(analyses,"(?<=\\[).*?(?=\\])")
                     ),
@@ -45,7 +49,7 @@ create_new_format_from_export <- function(.df = "extdata/Soil_extraction.xlsx"){
               )
 
 
-  names(data.f_3) <- stringr:::str_to_lower(
+  names(data.f_3) <- stringr::str_to_lower(
     stringr::str_replace_all(
       stringr::str_remove(
         stringr::str_trim(names(data.f_3)),
@@ -73,10 +77,40 @@ create_new_format_from_export <- function(.df = "extdata/Soil_extraction.xlsx"){
         as.numeric(NA),
         as.numeric(NA))
     ) %>%
-    dplyr::select(mass,mode,element,parameter,unit,analyte_type,lod) %>%
+    dplyr::select(mass,
+                  mode,
+                  element,
+                  parameter,
+                  unit,
+                  analyte_type,
+                  lod
+                  ) %>%
     dplyr::left_join(data.f_5) %>%
     dplyr::mutate(
-      value = as.numeric(value)
+      value = as.numeric(value),
+      acq_time = as.POSIXlt(as.numeric(acq_time)*3600*24, "CET",  "1899-12-30")
+    )%>%
+    dplyr::select(
+    "mass",
+    "mass_shift",
+    "mode",
+    "element",
+    "parameter",
+    "unit",
+    "analyte_type",
+    "rjct",
+    "data_file",
+    "acq_time",
+    "type",
+    "level",
+    "name",
+    "vial_number",
+    "value",
+    "below_lod",
+    "lod"
     )
+
+
+
   return(data.f_6)
 }

@@ -5,11 +5,12 @@
 #' @param .df path to a masshunter exportsheet in .xlsx or .xls format
 #' @keywords internal
 #' @details
+#' @export
 
 
 
 
-assign_new_names <- function(.df= "extdata/Soil_extraction.xlsx"){
+assign_new_names <- function(.df= "man/readme/extdata/random_ICP_8900_run.xlsx"){
   a <- readxl::read_xlsx(.df)
   .col_names_pos <- which_col_names_pos(.df)
   names(a) <- stringr::str_remove(paste(names(a[.col_names_pos]),a[1,]),"Sample")

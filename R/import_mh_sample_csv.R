@@ -6,22 +6,24 @@
 #'
 
 
-import_mh_sample_csv <- function(csv_path = "extdata/200207_MainInc_ME_1_a.b/001SMPL.d/001SMPL_1.csv"){
-    mode <- readr::read_delim(csv_path,
-                     "/"
-                     ,
-                     col_names = FALSE,
-                     trim_ws = TRUE)
+import_mh_sample_csv <- function(csv_path = "man/readme/extdata/random_001SMPL_1.csv"){
+  Mass = 'Time(Sec)' = X4 = aq.time = file.name = NULL
+
+  mode <- readr::read_delim(csv_path,
+                            "/"
+                            ,
+                            col_names = FALSE,
+                            trim_ws = TRUE)
 
 
   time_batch <- readr::read_delim(csv_path,
-                           ",",
-                           col_names = FALSE,
-                           trim_ws = TRUE,
-                           skip =1)
+                                  ",",
+                                  col_names = FALSE,
+                                  trim_ws = TRUE,
+                                  skip =1)
 
   (df <- readr::read_csv(csv_path,
-                    skip = 7
+                         skip = 7
   ) %>%
       dplyr::filter(stringr::str_detect(Mass, "Printed", T)) %>%
       dplyr::mutate(

@@ -7,12 +7,13 @@
 #'
 #'
 
-import_metadata <- function(path_batch = "extdata/200207_MainInc_ME_1_a.b"){
+import_metadata <- function(path_batch = "man/readme/extdata/random_ME_run.b/"){
+  aq.time = file.name = NULL
   BatchLog <- readxl::read_xlsx(paste(path_batch,"/BatchLog.xlsx",sep= ""),
-                         col_names = c("nr","aq.time","sample.type","sample.name","file.name","comment","vial"),
-                        col_types = c("guess", "date","guess","guess","guess","guess","guess"),
-                         skip = 1,
-                         trim_ws = T) %>%
+                                col_names = c("nr","aq.time","sample.type","sample.name","file.name","comment","vial"),
+                                col_types = c("guess", "date","guess","guess","guess","guess","guess"),
+                                skip = 1,
+                                trim_ws = T) %>%
     dplyr::filter(aq.time >= 0) %>%
     dplyr::mutate(
       file_name = stringr::str_extract(file.name,"(?<=\\.b\\\\)[:graph:]+")

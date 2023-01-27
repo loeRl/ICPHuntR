@@ -4,13 +4,13 @@
 \alias{which_col_names_pos}
 \title{which_col_names_pos}
 \usage{
-which_col_names_pos(.path = "extdata/Soil_extraction.xlsx")
+which_col_names_pos(.path = "man/readme/extdata/random_ICP_8900_run.xlsx")
 }
 \arguments{
 \item{.path}{path to a masshunter exportsheet in .xlsx or .xls format}
 }
 \description{
-this function returns a vector containing column name positions (This function is not exported)
+this function returns a vector containing column name positions (This function is normally not exported)
 }
 \details{
 this is an essential function for create_new_function_export

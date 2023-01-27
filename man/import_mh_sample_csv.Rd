@@ -4,9 +4,7 @@
 \alias{import_mh_sample_csv}
 \title{import_mh_sample_csv}
 \usage{
-import_mh_sample_csv(
-  csv_path = "extdata/200207_MainInc_ME_1_a.b/001SMPL.d/001SMPL_1.csv"
-)
+import_mh_sample_csv(csv_path = "man/readme/extdata/random_001SMPL_1.csv")
 }
 \arguments{
 \item{csv_path}{path to the csv file of the sample}

@@ -10,15 +10,20 @@
 
 
 create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8900_run.xlsx"){
-
+ #### predefine variables as NULL
   analyses <- parameter <- na <- value <- level <- mass <- element <-unit <- analyte_type <- lod <- acq_time <-  NULL # Setting the variables to NULL first
 
-  data.f <- assign_new_names(.df) ## import the datasheet
-  data.f_2 <-tidyr::gather(data.f, ## make df longer
+
+
+  data.f <- assign_new_names("man/readme/extdata/random_ICP_8900_run.xlsx") ## import the datasheet and assign new names
+
+  ## make df longer
+  data.f_2 <-tidyr::gather(data.f,
                             "analyses",
                             "value",
                             9:length(data.f)
                             )
+  ### extract the data that is normally in the headers of the MassHunter export sheet and define new cols based on this metadata
   data.f_3 <-(data.f_2 %>%
                 dplyr::mutate(
                   mass = as.numeric(stringr::str_extract(analyses,"[:digit:]+(?=[:space:])")),
@@ -48,7 +53,7 @@ create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8
                 )
               )
 
-
+#### modify col names to e standardized lower case format and replace spaces with underscores
   names(data.f_3) <- stringr::str_to_lower(
     stringr::str_replace_all(
       stringr::str_remove(
@@ -57,10 +62,13 @@ create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8
       " ", "_")
     )
 
+
   data.f_4 <- data.f_3 %>%
     dplyr::rename(acq_time="acq._date-time") %>%
     dplyr::select(-analyses,-na)
 
+
+  ### create col that identifies measurements below the threshold defined in Masshunter (LOD, LOQ, BEC, ect.)
    data.f_5 <- data.f_4 %>%
      dplyr::filter(parameter == "Conc.") %>%
      dplyr::select(-parameter) %>%
@@ -69,13 +77,11 @@ create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8
     ) %>%
      dplyr::right_join(data.f_4)
 
-  data.f_6 <- dplyr::filter(data.f_5, level == "1") %>%
+   ### extract the level of the he threshold calculated by in Masshunter (LOD, LOQ, BEC, ect.) and add it to the data
+  data.f_6 <- dplyr::filter(data.f_5, below_lod == T) %>%
     dplyr::mutate(
-      lod = dplyr::if_else(
-        stringr::str_detect(string = value, pattern = "<"),
-        as.numeric(stringr::str_remove(value,"<")),
-        as.numeric(NA),
-        as.numeric(NA))
+      lod = as.numeric(stringr::str_remove(value,"<")),
+      value =  as.numeric(stringr::str_remove(value,"<"))
     ) %>%
     dplyr::select(mass,
                   mode,
@@ -111,6 +117,6 @@ create_new_format_from_export <- function(.df = "man/readme/extdata/random_ICP_8
     )
 
 
-
+### return this nice pice and contunie with the QC...
   return(data.f_6)
 }
